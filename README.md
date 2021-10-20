@@ -14,7 +14,7 @@ cancellation policies, and define better overbooking tactics.
 Data Description:
 I am planning to use the Hotel booking demand dataset available in
 https://www.kaggle.com/jessemostipak/hotel-booking-demand.
-The dataset has 32 features and more than 11,000 observations.
+The dataset has 32 features and more than 12o,000 observations retrieved from two different hotels: Resort hotel and City hotel.
 The model will predict the status of the booking by labeling
 the target variable is_canceled as Canceled (1) or Not Canceled (0).
 The features I will probably use (not sure yet) as indicators of whether a
