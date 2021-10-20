@@ -10,6 +10,7 @@ The goal of this project is to build a classification model to predict
 whether a new booking will be canceled or not. It will allow hotel
 managers to plan the hotel operations accordingly, decide more assertive
 cancellation policies, and define better overbooking tactics.
+
 Data Description:
 I am planning to use the Hotel booking demand dataset available in
 https://www.kaggle.com/jessemostipak/hotel-booking-demand.
@@ -25,6 +26,7 @@ cancelled by the customer prior to the current booking
 - deposit_type: indication on if the customer made a deposit to
 guarantee the booking this variable assumes three categories: No
 Deposit / Non Refund / Refundable.
+
 Tools:
 • NumPy
 • Pandas
